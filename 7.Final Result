@@ -1,0 +1,93 @@
+Add Patient
+===========
+Hospital Management System
+1. Add Patient
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Exit
+Enter your choice: 1
+Enter patient ID: 103
+Enter patient name: Manu
+Enter date of birth (DD-MM-YYYY): 09-04-2002
+Enter address: Nellore
+Enter phone number: 6895426986
+Patient added successfully!
+
+
+
+
+
+Add Doctors
+===========
+Hospital Management System
+1. Add Patient
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Exit
+Enter your choice: 2
+Enter doctor ID: 14576993
+Enter doctor name: DR.Viswa
+Enter speciality: Cardiologist
+Doctor added successfully!
+
+
+
+View Patients
+=============
+Hospital Management System
+1. Add Patient
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Exit
+Enter your choice: 3
+
+Patients:
+ID: 101, Name: Raju, Date of Birth: 2001-03-06 00:00:00, Address: Kanigiri, Phone Number: 6305615525
+ID: 102, Name: Vijay, Date of Birth: 1999-07-04 00:00:00, Address: Kurnool, Phone Number: 9865489547
+ID: 103, Name: Manu, Date of Birth: 2002-04-09 00:00:00, Address: Nellore, Phone Number: 6895426986
+
+
+
+View Doctors
+============
+Hospital Management System
+1. Add Patient
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Exit
+Enter your choice: 4
+Doctors:
+ID: 1456743, Name: DR.Mithra, Speciality: Neurologist
+ID: 14576993, Name: DR.Viswa, Speciality: Cardiologist
+
+
+
+For Exist
+==========
+Hospital Management System
+1. Add Patient
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Exit
+Enter your choice: 5
+Exiting...
+
+
+
+
+
+choice is other
+================
+Hospital Management System
+1. Add Patient
+2. Add Doctor
+3. View Patients
+4. View Doctors
+5. Exit
+Enter your choice: 6
+Invalid choice!
